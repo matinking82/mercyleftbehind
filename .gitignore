@@ -1,0 +1,4 @@
+.godot/
+*.import.tmp
+assets/art/_incoming/
+export/

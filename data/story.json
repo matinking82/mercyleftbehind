@@ -1,0 +1,167 @@
+{
+  "title": {"en": "The Mercy Left Behind", "fa": "رحمتی که جا ماند"},
+  "subtitle": {"en": "The Murder of the Great Beggar", "fa": "قتل گدای بزرگ"},
+  "detective": {"en": "Detective Richard Hale", "fa": "کارآگاه ریچارد هیل"},
+  "nights_total": 5,
+  "candles_per_night": 14,
+  "accuse_from_night": 3,
+
+  "intro": [
+    {"image": "intro_city", "en": "Washington, D.C. — 3:33 a.m.\nThe old Second Precinct on 9th Street was shut down in 1994. Nobody told the rain.", "fa": "واشنگتن دی‌سی — ساعت ۳:۳۳ بامداد.\nکلانتری قدیمی خیابان نهم سال ۱۹۹۴ تعطیل شد. اما کسی به باران خبر نداد."},
+    {"image": "intro_package", "en": "You are Richard Hale. Cold cases — the ones nobody wants.\nThree weeks ago a package came with no stamp and no sender: a dented tin cup, and a roll of parchment written in a hand eight hundred years old.", "fa": "تو ریچارد هیل هستی. کارآگاه پرونده‌های سرد — همان‌هایی که هیچ‌کس نمی‌خواهد.\nسه هفته پیش بسته‌ای رسید بی‌تمبر و بی‌فرستنده: یک کاسه‌ی حلبی قُر‌شده، و طوماری از پوست که دستی هشتصد ساله آن را نوشته بود."},
+    {"image": "intro_town", "en": "It was the inquest roll of Medjugorje, Bosnia, in the year 1189.\nA beggar — the one the people called the Great Beggar — was found on the chapel steps beside the cemetery, laid on an altar cloth, a dagger in his heart.\nSix were questioned. No one was ever condemned.", "fa": "طومار، پرونده‌ی بازجویی شهر مدیوگوریه در بوسنی بود؛ سال ۱۱۸۹.\nگدایی که مردم «گدای بزرگ» صدایش می‌کردند، روی پله‌های نمازخانه‌ی کنار گورستان پیدا شد؛ خوابیده روی پارچه‌ی محراب، با خنجری در قلبش.\nشش نفر بازجویی شدند. هیچ‌کس هرگز محکوم نشد."},
+    {"image": "intro_beggar", "en": "Beneath the last line of the roll, in ink that was still wet:\n«Find the one who opened the door. Or the door stays open.»", "fa": "زیر آخرین سطر طومار، با جوهری که هنوز خیس بود، نوشته بود:\n«کسی را پیدا کن که در را گشود. وگرنه در باز می‌ماند.»"},
+    {"image": "intro_room", "en": "Tonight, Room B is not empty.\nSix people sit in the dark — in wool and iron and linen, smelling of forge-smoke and incense. They do not know how they came here. They only know that an old debt has come due.", "fa": "امشب اتاق B خالی نیست.\nشش نفر در تاریکی نشسته‌اند — در پشم و آهن و کتان، با بوی دود کوره و کُندُر. نمی‌دانند چطور به اینجا رسیده‌اند. فقط می‌دانند بدهی کهنه‌ای سر رسیده است."},
+    {"image": "intro_room", "en": "You have five nights before the last candle dies.\nListen. Press. Show them what you find. And when you are certain — name the one who opened the door.", "fa": "تا خاموش شدن آخرین شمع پنج شب فرصت داری.\nگوش کن. فشار بیاور. آنچه پیدا می‌کنی را جلویشان بگذار. و وقتی مطمئن شدی — نام کسی را بگو که در را گشود."}
+  ],
+
+  "nights": [
+    {"en": "Night One.\nThe six are as lost as you are. They are afraid — but fear is not guilt.", "fa": "شب اول.\nآن شش نفر هم مثل تو سردرگم‌اند. می‌ترسند — اما ترس، گناه نیست."},
+    {"en": "Night Two.\nThe room smells of forge-smoke and incense. Someone has scratched a crescent moon into the steel table.", "fa": "شب دوم.\nاتاق بوی دود کوره و کُندُر می‌دهد. کسی روی میز فلزی، هلال ماهی خراشیده است."},
+    {"en": "Night Three.\nThe clock in the hall stopped at 3:33 and refuses to move. From tonight, you may name the killer — if you dare.", "fa": "شب سوم.\nساعت راهرو روی ۳:۳۳ ایستاده و تکان نمی‌خورد. از امشب می‌توانی قاتل را معرفی کنی — اگر جرئتش را داری."},
+    {"en": "Night Four.\nIn the one-way mirror, for a heartbeat, you see a man in rags standing behind you. When you turn, there is no one.", "fa": "شب چهارم.\nدر آینه‌ی یک‌طرفه، به اندازه‌ی یک تپش، مردی ژنده‌پوش را پشت سرت می‌بینی. برمی‌گردی؛ هیچ‌کس نیست."},
+    {"en": "Night Five.\nThe last candle. Whatever you decide tonight, the door will close — on someone.", "fa": "شب پنجم.\nآخرین شمع. هر تصمیمی امشب بگیری، در بسته خواهد شد — به روی کسی."}
+  ],
+
+  "victim": {
+    "name": {"en": "Lazar, the Great Beggar", "fa": "لازار، گدای بزرگ"},
+    "image": "victim",
+    "dossier": {
+      "en": "About sixty years old. The people whispered that he had once been a priest of the Abbey, who threw away his robes thirteen years ago and took up a tin cup. He gave away whatever he was given. The poor loved him; the sick begged for his touch. The Abbey's tithes fell. The merchant's relics stopped selling. The palace grew nervous.\n\nOn the eve of the Feast of the Assumption, 1189, he was found on the chapel steps beside the cemetery — laid out on a red-and-white altar cloth with care, a ritual dagger in his heart. There was no sign that he had struggled.",
+      "fa": "حدود شصت ساله. مردم زمزمه می‌کردند که روزگاری کشیش صومعه بوده؛ سیزده سال پیش ردایش را دور انداخت و کاسه‌ای حلبی به دست گرفت. هرچه به او می‌دادند می‌بخشید. فقرا دوستش داشتند و بیماران برای لمس دستش التماس می‌کردند. عُشریه‌ی صومعه کم شد. یادگارهای مقدس تاجر دیگر فروش نرفت. قصر نگران شد.\n\nشب پیش از عید عروج مریم، سال ۱۱۸۹، او را روی پله‌های نمازخانه‌ی کنار گورستان پیدا کردند — با دقت روی پارچه‌ی سرخ‌وسفید محراب خوابانده شده، با خنجری آیینی در قلبش. هیچ نشانی از تقلا نبود."
+    }
+  },
+
+  "evidence": [
+    {"id": "dagger", "initial": true, "image": "ev_dagger",
+     "name": {"en": "Ritual Dagger", "fa": "خنجر آیینی"},
+     "desc": {"en": "Found in the beggar's heart. Ash-wood handle, a cross-guard shaped like folded wings. Stamped near the hilt with a hammer beneath a cross — the mark of Garon the smith. The steel is soft and badly tempered.", "fa": "در قلب گدا پیدا شد. دسته از چوب زبان‌گنجشک، قبضه‌ای به شکل دو بال جمع‌شده. نزدیک دسته مُهری خورده: چکشی زیر صلیب — نشان گارونِ آهنگر. فولادش نرم است و بد آب‌دیده."}},
+    {"id": "draught", "initial": true, "image": "ev_draught",
+     "name": {"en": "Physician's Note", "fa": "یادداشت طبیب"},
+     "desc": {"en": "The Abbey physician smelled poppy and valerian on the beggar's lips and in the dregs of his cup — a sleeping draught, the kind brewed for the dying. There are no wounds on his hands. He did not fight.", "fa": "طبیب صومعه بوی خشخاش و سنبل‌الطیب را روی لب‌های گدا و ته‌مانده‌ی کاسه‌اش حس کرد — داروی خواب، از آن‌ها که برای محتضران دم می‌کنند. هیچ زخمی روی دست‌هایش نیست. مقاومتی نکرده بود."}},
+    {"id": "cloth", "initial": true, "image": "ev_cloth",
+     "name": {"en": "Altar Cloth", "fa": "پارچه‌ی محراب"},
+     "desc": {"en": "The body lay on a red-and-white altar cloth, straightened with care, as if for a rite. Bolts of the very same cloth were found in the warehouse of Branko the merchant.", "fa": "جسد روی پارچه‌ی سرخ‌وسفید محراب خوابانده شده بود؛ صاف و مرتب، انگار برای یک آیین. توپ‌هایی از همین پارچه در انبار برانکوی تاجر پیدا شد."}},
+    {"id": "tablet", "initial": true, "image": "ev_tablet",
+     "name": {"en": "Wax Tablet in the Cup", "fa": "لوح مومی درون کاسه"},
+     "desc": {"en": "Hidden in the bottom of the beggar's tin cup: a small wax tablet, scratched in a shaking hand —\n«At the feast, the mercy left behind will be named.»", "fa": "ته کاسه‌ی حلبی گدا پنهان شده بود: لوح مومی کوچکی که با دستی لرزان رویش خراشیده‌اند —\n«در روز عید، نامِ رحمتی که جا ماند گفته خواهد شد.»"}},
+    {"id": "cloak", "initial": true, "image": "ev_cloak",
+     "name": {"en": "Soldier's Cloak", "fa": "شنل سرباز"},
+     "desc": {"en": "Ronan Blackwell's palace cloak, the hem stiff with dried blood. His boots carried the grey clay of the cemetery beside the chapel.", "fa": "شنل قصرِ رونان بلک‌وِل؛ لبه‌اش از خون خشک‌شده سفت شده. چکمه‌هایش گِل خاکستری گورستانِ کنار نمازخانه را داشت."}},
+    {"id": "rag", "initial": true, "image": "ev_rag",
+     "name": {"en": "Bloody Rag", "fa": "کهنه‌ی خونی"},
+     "desc": {"en": "Found in the pocket of Mikail, the boy, who was caught at dawn wearing the dead beggar's cloak and holding out his tin cup in the square.", "fa": "در جیب میکائیل، پسرک، پیدا شد؛ همان که سحرگاه با شنل گدای مرده دستگیر شد، در حالی که کاسه‌ی حلبی او را در میدان جلوی مردم گرفته بود."}},
+
+    {"id": "true_mark", "initial": false, "image": "ev_mark",
+     "name": {"en": "Garon's True Mark", "fa": "مُهر واقعی گارون"},
+     "desc": {"en": "Garon pressed his own stamp into wax for you. On his mark the cross leans to the right — «the way a hammer falls». On the dagger, the cross leans left. Someone copied his mark, and copied it badly.", "fa": "گارون مُهر خودش را برایت روی موم زد. روی نشان او صلیب به راست خم شده — «همان‌طور که چکش فرود می‌آید». روی خنجر، صلیب به چپ خم است. کسی نشانش را جعل کرده؛ آن هم بد."}},
+    {"id": "ledger", "initial": false, "image": "ev_ledger",
+     "name": {"en": "Branko's Ledger", "fa": "دفتر حساب برانکو"},
+     "desc": {"en": "A page torn from the merchant's private book of «devotional goods»: copied relics, saints' finger-bones made from pig knuckles, ritual blades stamped with borrowed marks. One line, from last Lent:\n«One ceremonial blade, ash handle, winged guard — to the Sister of the Infirmary. Three silver.»", "fa": "برگی کنده‌شده از دفتر خصوصی تاجر برای «اجناس عبادی»: یادگارهای جعلی، استخوان انگشت قدیسان که از بند پای خوک ساخته شده، خنجرهای آیینی با نشان‌های قرضی. یک سطر، از روزه‌ی بزرگ گذشته:\n«یک خنجر تشریفاتی، دسته‌ی زبان‌گنجشک، قبضه‌ی بال‌دار — به خواهرِ بیمارستان. سه سکه‌ی نقره.»"}},
+    {"id": "log", "initial": false, "image": "ev_log",
+     "name": {"en": "Infirmary Draught Log", "fa": "دفتر داروی بیمارستان"},
+     "desc": {"en": "Dragan's careful log of sleeping draughts. On the night of the murder:\n«Two draughts, poppy and valerian — for the burned shepherd. Signed: S.»\nNo burned shepherd was admitted to the infirmary that month.", "fa": "دفتر دقیق دراگان برای داروهای خواب. در شب قتل:\n«دو پیمانه، خشخاش و سنبل‌الطیب — برای چوپانِ سوخته. امضا: س.»\nدر آن ماه هیچ چوپانِ سوخته‌ای در بیمارستان بستری نشده بود."}},
+    {"id": "crescent", "initial": false, "image": "ev_crescent",
+     "name": {"en": "The Crescent Birthmark", "fa": "خالِ هلالی"},
+     "desc": {"en": "On Mikail's left shoulder, a birthmark shaped like a crescent moon. «Mama said the moon kissed me the night I came.»\nThe crescent is the emblem of the royal house.", "fa": "روی شانه‌ی چپ میکائیل خالی مادرزادی به شکل هلال ماه.\n«مامان می‌گفت شبی که اومدم، ماه منو بوسید.»\nهلال ماه، نشان خاندان سلطنتی است."}},
+    {"id": "offering", "initial": false, "image": "ev_offering",
+     "name": {"en": "The Offering of 1176", "fa": "قربانیِ سال ۱۱۷۶"},
+     "desc": {"en": "Thirteen years before the murder, in the year of the great drought, the Abbey declared that the rains would return only if the King gave his firstborn son to God. On the night of the dead moon the infant prince was «offered» in secret, wrapped in red-and-white cloth, and buried in a small white coffin. Nine days later, it rained.", "fa": "سیزده سال پیش از قتل، در سال خشکسالی بزرگ، صومعه اعلام کرد باران فقط وقتی برمی‌گردد که پادشاه پسر نخست‌زاده‌اش را به خدا بدهد. در شب ماهِ مرده، شاهزاده‌ی نوزاد در خفا «قربانی» شد؛ پیچیده در پارچه‌ی سرخ‌وسفید، در تابوتی کوچک و سفید. نُه روز بعد، باران بارید."}}
+  ],
+
+  "motives": [
+    {"id": "debt", "en": "Debt and public humiliation", "fa": "بدهی و تحقیر در برابر مردم"},
+    {"id": "trade", "en": "His preaching was ruining a trade in false relics", "fa": "موعظه‌هایش تجارت یادگارهای جعلی را نابود می‌کرد"},
+    {"id": "order", "en": "A royal order to silence him before the feast", "fa": "فرمانی سلطنتی برای ساکت کردنش پیش از عید"},
+    {"id": "rivalry", "en": "Hunger, and rivalry over the alms of the square", "fa": "گرسنگی و رقابت بر سر صدقه‌های میدان"},
+    {"id": "fear", "en": "Fear of being exposed as a poisoner", "fa": "ترس از رسوا شدن به‌عنوان مسموم‌کننده"},
+    {"id": "love", "en": "A forbidden love, rejected", "fa": "عشقی ممنوع که پس زده شد"},
+    {"id": "prince", "en": "To keep a hidden child alive — the mercy left behind", "fa": "برای زنده نگه داشتن کودکی پنهان — رحمتی که جا ماند"}
+  ],
+
+  "means": [
+    {"id": "dagger", "en": "The ritual dagger, in a struggle", "fa": "خنجر آیینی، در یک درگیری"},
+    {"id": "poison", "en": "Poisoned food from the infirmary kitchen", "fa": "غذای مسموم از آشپزخانه‌ی بیمارستان"},
+    {"id": "draught_dagger", "en": "A sleeping draught — then the dagger", "fa": "داروی خواب — و بعد خنجر"},
+    {"id": "sword", "en": "A soldier's blade", "fa": "شمشیر یک سرباز"}
+  ],
+
+  "solution": {"killer": "sara", "motive": "prince", "means": "draught_dagger"},
+
+  "endings": {
+    "true": {
+      "title": {"en": "The Door Closes", "fa": "در بسته می‌شود"},
+      "image": "end_true",
+      "pages": [
+        {"en": "You lay it out on the steel table, piece by piece.\nA soft counterfeit blade, sold by the merchant to the Sister of the Infirmary. Two draughts, signed «S.». A dying widow who slept through the only night she ever slept. A soldier who saw a Sister holding a cup to a beggar's lips. A boy who saw an angel. And a crescent on that boy's shoulder.", "fa": "همه را تکه‌تکه روی میز فلزی می‌چینی.\nخنجری جعلی و نرم که تاجر به خواهرِ بیمارستان فروخته بود. دو پیمانه دارو با امضای «س.». بیوه‌ای محتضر که تنها شبی را که در عمرش خوابید، خوابید. سربازی که دید خواهری کاسه‌ای را به لب‌های یک گدا نزدیک می‌کند. پسری که فرشته‌ای دید. و هلالی روی شانه‌ی همان پسر."},
+        {"en": "Sister Sara does not look away.\n«He wanted to name the child at the feast. He believed the truth would set the boy free. But I was the one who held that baby's mouth closed with my hand, while the Abbey sang over a coffin with a dead child in it. I knew what the truth would do. They would have finished the Offering.»", "fa": "خواهر سارا نگاهش را نمی‌دزدد.\n«می‌خواست در روز عید نام آن بچه را بگوید. خیال می‌کرد حقیقت آن پسر را آزاد می‌کند. اما من بودم که دستم را روی دهان آن نوزاد گذاشتم، وقتی صومعه بالای تابوتی که بچه‌ای مرده در آن بود سرود می‌خواند. می‌دانستم حقیقت چه می‌کند. آن‌ها قربانی را تمام می‌کردند.»"},
+        {"en": "«I gave Lazar the sleep I give the dying. He knew what was in the cup. He drank it anyway, and he said: Then let me be the last door you open, Sara.\nI did not wound him, detective. I opened the door.»", "fa": "«به لازار همان خوابی را دادم که به محتضران می‌دهم. می‌دانست در کاسه چیست. باز هم نوشید، و گفت: پس بگذار آخرین دری باشم که باز می‌کنی، سارا.\nمن زخمی‌اش نکردم، کارآگاه. من در را گشودم.»"},
+        {"en": "One by one, the six grow thin as smoke. The smith nods to you. The merchant does not. The cook makes the sign of the cross. The soldier salutes. The boy looks at you for a long time — the way one looks into a mirror.", "fa": "آن شش نفر یکی‌یکی مثل دود رقیق می‌شوند. آهنگر برایت سر تکان می‌دهد. تاجر نه. آشپز صلیب می‌کشد. سرباز سلام نظامی می‌دهد. پسرک مدتی طولانی نگاهت می‌کند — همان‌طور که آدم به آینه نگاه می‌کند."},
+        {"en": "At 6:02 a.m. the sun rises over 9th Street for the first time in three weeks.\nIn the washroom mirror, buttoning your shirt, you notice it again — the small crescent on your left shoulder that you've had since you were born.\nThe tin cup is gone from your desk. In its place lies a dry wax tablet, smoothed blank.\nThe mercy that was left behind has found its way home.", "fa": "ساعت ۶:۰۲ صبح، خورشید برای نخستین بار در این سه هفته روی خیابان نهم طلوع می‌کند.\nجلوی آینه‌ی دستشویی، وقتی دکمه‌های پیراهنت را می‌بندی، دوباره متوجهش می‌شوی — هلال کوچکی روی شانه‌ی چپت که از روز تولد داشته‌ای.\nکاسه‌ی حلبی از روی میزت رفته. جایش لوح مومیِ خشکی است، صاف و سفید.\nرحمتی که جا مانده بود، راه خانه را پیدا کرد."}
+      ]
+    },
+    "half": {
+      "title": {"en": "The Hand, Not the Heart", "fa": "دست، نه دل"},
+      "image": "end_half",
+      "pages": [
+        {"en": "Sister Sara does not resist. She folds her hands and lets them take her. But the reasons you give are not the reasons, and she knows it.\n«You found the hand, detective,» she says softly, «but not the heart.»", "fa": "خواهر سارا مقاومتی نمی‌کند. دست‌هایش را روی هم می‌گذارد و می‌گذارد ببرندش. اما دلایلی که تو می‌گویی، دلیل واقعی نیست — و او این را می‌داند.\nآرام می‌گوید: «دست را پیدا کردی، کارآگاه... اما دل را نه.»"},
+        {"en": "The six fade. The rain does not.\nThe next night, at 3:33, the phone rings in the empty precinct. Room B. The door is open again.", "fa": "آن شش نفر محو می‌شوند. باران، نه.\nشب بعد، ساعت ۳:۳۳، تلفن کلانتری خالی زنگ می‌زند. اتاق B. در دوباره باز است."}
+      ]
+    },
+    "wrong_garon": {
+      "title": {"en": "The Smith's Gallows", "fa": "دار آهنگر"},
+      "image": "end_wrong",
+      "pages": [
+        {"en": "Medjugorje hangs Garon at the crossroads, his own hammer nailed above the gallows. The town agrees it always knew. The forge goes cold. The debt is paid in the only coin the poor are ever allowed.", "fa": "مدیوگوریه گارون را سر چهارراه به دار می‌کشد و چکش خودش را بالای چوبه‌ی دار میخ می‌کند. شهر می‌گوید از اول می‌دانست. کوره سرد می‌شود. بدهی با تنها سکه‌ای پرداخت می‌شود که فقرا اجازه‌ی خرجش را دارند."},
+        {"en": "In Room B, as the others fade, the nun smiles at you — almost kindly.\nAt 3:33 the next night, the door is open again.", "fa": "در اتاق B، وقتی بقیه محو می‌شوند، راهبه لبخندی به تو می‌زند — تقریباً مهربان.\nشب بعد، ساعت ۳:۳۳، در دوباره باز است."}
+      ]
+    },
+    "wrong_branko": {
+      "title": {"en": "A Fair Price", "fa": "قیمت منصفانه"},
+      "image": "end_wrong",
+      "pages": [
+        {"en": "Branko is chained in the Abbey cellar for nine days. On the tenth, the door is mysteriously unlocked; the Abbot finds his tithe-box heavier than it has been in years. The merchant leaves for Ragusa with a new ledger and an old smile.", "fa": "برانکو نُه روز در زیرزمین صومعه به زنجیر کشیده می‌شود. روز دهم، در به‌طرز مرموزی باز است؛ و راهب اعظم صندوق عُشریه را سنگین‌تر از تمام این سال‌ها می‌یابد. تاجر با دفتری تازه و لبخندی کهنه راهی راگوزا می‌شود."},
+        {"en": "«Everything has a price, detective,» he says as he fades. «Even being wrong.»\nAt 3:33 the next night, the door is open again.", "fa": "در حال محو شدن می‌گوید: «همه چیز قیمتی دارد، کارآگاه. حتی اشتباه کردن.»\nشب بعد، ساعت ۳:۳۳، در دوباره باز است."}
+      ]
+    },
+    "wrong_ronan": {
+      "title": {"en": "Orders", "fa": "فرمان"},
+      "image": "end_wrong",
+      "pages": [
+        {"en": "The palace is quick to agree. A soldier who obeyed too well is the cleanest answer a crown can find. Ronan is beheaded in the barracks yard before he can say whose order he carried. Jelena, the gravedigger's widow, digs the grave herself.", "fa": "قصر زود موافقت می‌کند. سربازی که بیش از حد اطاعت کرده، تمیزترین جوابی است که یک تاج می‌تواند پیدا کند. پیش از آنکه رونان بگوید فرمانِ چه کسی را اجرا می‌کرد، در حیاط سربازخانه گردنش را می‌زنند. یلنا، بیوه‌ی گورکن، خودش گورش را می‌کَند."},
+        {"en": "He salutes you as he fades. You wish he hadn't.\nAt 3:33 the next night, the door is open again.", "fa": "در حال محو شدن به تو سلام نظامی می‌دهد. کاش نمی‌داد.\nشب بعد، ساعت ۳:۳۳، در دوباره باز است."}
+      ]
+    },
+    "wrong_mikail": {
+      "title": {"en": "The Offering, Completed", "fa": "قربانی، کامل شد"},
+      "image": "end_wrong",
+      "pages": [
+        {"en": "They hang the boy at dawn, still wearing the beggar's cloak. The Abbey bells ring. The Abbot calls it justice. Somewhere in the palace, the Queen does not know why she is weeping.\nThirteen years late, the Offering is complete.", "fa": "پسرک را سحرگاه به دار می‌کشند، هنوز با شنل گدا بر تن. ناقوس‌های صومعه به صدا درمی‌آیند. راهب اعظم اسمش را عدالت می‌گذارد. جایی در قصر، ملکه نمی‌داند چرا گریه می‌کند.\nبا سیزده سال تأخیر، قربانی کامل شد."},
+        {"en": "In Room B, Sister Sara screams for the first time in eight hundred years.\nThen the lamp goes out. At 3:33 the next night, the door is open again.", "fa": "در اتاق B، خواهر سارا برای نخستین بار در هشتصد سال جیغ می‌کشد.\nبعد چراغ خاموش می‌شود. شب بعد، ساعت ۳:۳۳، در دوباره باز است."}
+      ]
+    },
+    "wrong_dragan": {
+      "title": {"en": "The Poisoner's Fire", "fa": "آتش مسموم‌کننده"},
+      "image": "end_wrong",
+      "pages": [
+        {"en": "Dragan confesses before they even light the fire — to everything, to anything. They burn the cook as a poisoner in front of the infirmary he served for thirty years. The sick are fed thin broth after that, and nobody sleeps well again.", "fa": "دراگان حتی پیش از روشن شدن آتش اعتراف می‌کند — به همه چیز، به هر چیزی. آشپز را به جرم مسموم‌کردن جلوی همان بیمارستانی که سی سال در آن خدمت کرد می‌سوزانند. بعد از آن، به بیماران آبگوشت رقیق می‌دهند و دیگر هیچ‌کس خواب آرامی ندارد."},
+        {"en": "«Thank you, Father,» he whispers to you as he fades. «I needed someone to be sure.»\nAt 3:33 the next night, the door is open again.", "fa": "در حال محو شدن زیر لب به تو می‌گوید: «ممنونم، پدر. لازم بود کسی مطمئن باشد.»\nشب بعد، ساعت ۳:۳۳، در دوباره باز است."}
+      ]
+    }
+  },
+
+  "hints": [
+    {"unless": "g_mark", "en": "The dagger carries the smith's mark. Show it to the man whose mark it is.", "fa": "روی خنجر نشان آهنگر است. آن را به صاحب همان نشان نشان بده."},
+    {"unless": "d_log", "en": "Someone put the beggar to sleep first. Who brews the sleeping draughts? Show him the physician's note — and be gentle; frightened men hide things.", "fa": "کسی اول گدا را خواب کرده. چه کسی داروی خواب درست می‌کند؟ یادداشت طبیب را نشانش بده — و ملایم باش؛ آدم ترسیده چیزها را پنهان می‌کند."},
+    {"unless": "r_cloak", "en": "The soldier's cloak and boots tell a story. Make him explain them.", "fa": "شنل و چکمه‌های سرباز قصه‌ای دارند. وادارش کن توضیح بدهد."},
+    {"unless": "b_ledger", "requires": "g_mark", "en": "If the smith's mark was copied, someone sells copies. Show the true mark to the man who sells everything.", "fa": "اگر نشان آهنگر جعل شده، کسی جعلی‌ها را می‌فروشد. مُهر واقعی را به مردی نشان بده که همه چیز می‌فروشد."},
+    {"unless": "s_stana", "requires": "d_log", "en": "The log is signed «S.». Sister Sara says she sat with a dying widow all night. Show her the log.", "fa": "دفتر با «س.» امضا شده. خواهر سارا می‌گوید تمام شب کنار بیوه‌ای محتضر بوده. دفتر را نشانش بده."},
+    {"unless": "r_saw", "requires": "r_cloak", "en": "The soldier was by the cemetery that night. He saw more than he admits. Press him — soldiers crack when discipline does.", "fa": "سرباز آن شب کنار گورستان بوده. بیشتر از آنچه می‌گوید دیده. تحت فشارش بگذار — سربازها وقتی انضباطشان ترک برمی‌دارد، می‌شکنند."},
+    {"unless": "m_angel", "en": "The boy slept near the chapel steps. He won't talk to someone who frightens him. Be gentle, ask about that night.", "fa": "پسرک نزدیک پله‌های نمازخانه می‌خوابید. با کسی که او را بترساند حرف نمی‌زند. ملایم باش و از آن شب بپرس."},
+    {"unless": "m_crescent", "en": "Ask the boy about his family once he trusts you.", "fa": "وقتی پسرک به تو اعتماد کرد، از خانواده‌اش بپرس."},
+    {"unless": "r_crescent", "requires": "m_crescent", "en": "A crescent on a poor boy's shoulder. Who would know what such a mark means? Someone from the palace.", "fa": "هلالی روی شانه‌ی یک پسر فقیر. چه کسی معنای چنین نشانی را می‌داند؟ کسی از قصر."},
+    {"unless": "b_offering", "en": "«Thirteen years ago» keeps coming up. The merchant supplies everything — even for secret rites. Show him the wax tablet, or press him.", "fa": "«سیزده سال پیش» مدام تکرار می‌شود. تاجر همه چیز را تأمین می‌کند — حتی برای آیین‌های پنهانی. لوح مومی را نشانش بده، یا تحت فشارش بگذار."},
+    {"unless": "s_mercy", "requires": "b_offering", "en": "You know what the Offering was. Ask the healer who was nineteen that year — show her the Offering or the crescent.", "fa": "حالا می‌دانی آن قربانی چه بود. از شفابخشی بپرس که آن سال نوزده ساله بود — قربانی یا خال هلالی را نشانش بده."},
+    {"en": "You may have enough. Who had the blade, the draught, the opportunity — and a reason worth a soul? When you are sure, make your accusation.", "fa": "شاید به اندازه‌ی کافی داری. چه کسی خنجر، دارو، فرصت — و دلیلی به ارزش یک روح داشت؟ وقتی مطمئن شدی، اتهامت را اعلام کن."}
+  ]
+}
